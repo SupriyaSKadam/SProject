@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+    <line>
+      <![CDATA[FTC is executing!!!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-15T09:33:35 IST" name="Default suite" finished-at="2023-04-15T09:33:35 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2023-04-15T09:33:35 IST" name="Default test" finished-at="2023-04-15T09:33:35 IST" duration-ms="119">
+      <class name="testNGFlag.InvocationCountFlag">
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="ft()[pri:0, instance:testNGFlag.InvocationCountFlag@68c72235]" started-at="2023-04-15T09:33:35 IST" name="ft" finished-at="2023-04-15T09:33:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FTC is executing!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft -->
+      </class> <!-- testNGFlag.InvocationCountFlag -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
